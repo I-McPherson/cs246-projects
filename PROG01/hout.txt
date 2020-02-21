@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+        CS246 Object-Oriented Programming and Design - Program 1
+
+                     This program draws a rectangle
+                     ==============================
+
+
+Enter the rectangle length now: Enter the rectangle width here: 
+
+Here is a picture of your rectangle:
+***************
+*             *
+*             *
+***************
+
+The rectangle specifications are:
+        Length = 10 units
+         Width = 4.9 units
+          Area = 49 sq. units
+     Perimeter = 29.8 units
+
+Thanks for drawing a rectangle today ;)
+
+
+
+
+
