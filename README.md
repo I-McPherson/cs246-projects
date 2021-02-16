@@ -5,6 +5,8 @@ These projects are designed to be used with Visual Studio, and were created in t
 
 ### Building and running
 
-To build these, press CTRL + SHIFT + B within the Visual Studio environment.  To run, press CTRL + F5 within the Visual Studio environment.
+To build these, press CTRL + SHIFT + B within the Visual Studio environment.  
+
+To run, press CTRL + F5 within the Visual Studio environment.
 
 Thank you for looking at my work!
